@@ -1,0 +1,133 @@
+{
+  "picBed": {
+    "current": "github",
+    "uploader": "github",
+    "smms": {
+      "token": ""
+    },
+    "lankong": {
+      "lskyProVersion": "V2",
+      "server": "https://img.pipichao.top",
+      "token": "Bearer 2|5zNe4o6JWZpu8dfg3G1eazOEaSG3QUrXuBDVcI7d",
+      "strategyId": null,
+      "albumId": "imgs",
+      "permission": {
+        "name": "private(default)",
+        "value": 0
+      },
+      "ignoreCertErr": false,
+      "syncDelete": true,
+      "_configName": "Default",
+      "_id": "c4c90441-11a7-4f77-ab55-24dc9ed159d6",
+      "_createdAt": 1701422552730,
+      "_updatedAt": 1701422552730
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "89ea42cf-88c2-416d-ad4d-b986f4e8177b",
+      "_createdAt": 1701422616976,
+      "_updatedAt": 1701422634333,
+      "host": "127.0.0.1",
+      "port": 36677,
+      "picbed": "",
+      "configName": "",
+      "serverKey": ""
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "c31d4aef-a45d-4030-8abe-ca07432a1614",
+      "_createdAt": 1701482485571,
+      "_updatedAt": 1701482485571
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": false,
+    "privacyEnsure": true,
+    "autoRename": true,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "deleteCloudFile": true,
+    "useShortUrl": false,
+    "mainWindowWidth": 1000,
+    "mainWindowHeight": 600,
+    "sync": {
+      "type": "github",
+      "username": "cookie1038",
+      "repo": "images",
+      "branch": "main",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "picgoPlugins": {
+    "picgo-plugin-lankong": true
+  },
+  "uploader": {
+    "lankong": {
+      "configList": [
+        {
+          "lskyProVersion": "V2",
+          "server": "https://img.pipichao.top",
+          "token": "Bearer 2|5zNe4o6JWZpu8dfg3G1eazOEaSG3QUrXuBDVcI7d",
+          "strategyId": null,
+          "albumId": "imgs",
+          "permission": {
+            "name": "private(default)",
+            "value": 0
+          },
+          "ignoreCertErr": false,
+          "syncDelete": true,
+          "_configName": "Default",
+          "_id": "c4c90441-11a7-4f77-ab55-24dc9ed159d6",
+          "_createdAt": 1701422552730,
+          "_updatedAt": 1701422552730
+        }
+      ],
+      "defaultId": "c4c90441-11a7-4f77-ab55-24dc9ed159d6"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "89ea42cf-88c2-416d-ad4d-b986f4e8177b",
+          "_createdAt": 1701422616976,
+          "_updatedAt": 1701422634333,
+          "host": "127.0.0.1",
+          "port": 36677,
+          "picbed": "",
+          "configName": "",
+          "serverKey": ""
+        }
+      ],
+      "defaultId": "89ea42cf-88c2-416d-ad4d-b986f4e8177b"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "c31d4aef-a45d-4030-8abe-ca07432a1614",
+          "_createdAt": 1701482485571,
+          "_updatedAt": 1701482485571
+        }
+      ],
+      "defaultId": "c31d4aef-a45d-4030-8abe-ca07432a1614"
+    }
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI"
+}
